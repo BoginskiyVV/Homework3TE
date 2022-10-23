@@ -14,6 +14,3 @@ numbers = [2, 3, 5, 9, 3]
 odd_numbers = []
 print(f'Задан список {numbers}')
 f(numbers)
-
-
-
